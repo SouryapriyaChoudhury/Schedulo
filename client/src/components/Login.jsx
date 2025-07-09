@@ -114,7 +114,7 @@ function Login({ onSubmit, onSwitchMode }) {
         </div>
         <h2 className="text-2xl font-bold text-gray-800"> Welcome Back</h2>
         <p className="text-green-500 text-sm mt-1">
-          Sign in to continue to TaskBuddy
+          Sign in to continue to Schedulo
         </p>
       </div>
 

@@ -100,12 +100,12 @@ function Sidebar({ user, tasks }) {
                   <p className={TIP_CARD.text}>
                     Use Keyboard Shortcuts to boost your productivity
                     <a
-                      href="https://www.linkedin.com/in/saurabh-jaykar/"
+                      href="https://www.linkedin.com/in/souryapriya-choudhury-940655284/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-purple-500 block mt-2 text-sm hover:underline"
                     >
-                      Visit my LinkedIn To Digital Services
+                      Visit my LinkedIn 
                     </a>
                   </p>
                 </div>

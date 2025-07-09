@@ -1,8 +1,6 @@
-# TaskBuddy - Your Personal Task Manager 📝
+# Schedulo - Your Personal Task Manager 📝
 
-TaskBuddy is a full-stack task management application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It helps users efficiently manage their daily tasks with a modern, user-friendly interface.
-
-![TaskBuddy Banner](https://ui-avatars.com/api/?name=Task+Buddy&size=220&background=random)
+Schedulo is a full-stack task management application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It helps users efficiently manage their daily tasks with a modern, user-friendly interface.
 
 ## ✨ Features
 
@@ -13,10 +11,6 @@ TaskBuddy is a full-stack task management application built using the MERN (Mong
 - 📊 Task statistics dashboard
 - 🔒 Secure user authentication
 - 💫 Modern and responsive UI
-
-## 🚀 Live Demo
-
-[Live Demo Link](https://task-buddy-mern.vercel.app/) - https://task-buddy-mern.vercel.app/
 
 ## 🛠️ Prerequisites
 
@@ -30,8 +24,8 @@ Before running this application, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TaskBuddyMern.git
-   cd TaskBuddyMern
+   git clone https://github.com/yourusername/Schedulo.git
+   cd ScheduloMern
    ```
 
 2. Install server dependencies:
@@ -119,7 +113,7 @@ Before running this application, make sure you have the following installed:
 ## 📁 Project Structure
 
 ```
-TaskBuddyMern/
+ScheduloMern/
 ├── client/                 # Frontend React application
 │   ├── src/
 │   │   ├── components/    # Reusable components
@@ -151,8 +145,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@saurabhjaykar1603](https://github.com/saurabhjaykar1603)
-- LinkedIn: [Saurabh Jaykar](https://www.linkedin.com/in/saurabh-jaykar/)
+- GitHub: [@SouryapriyaChoudhury](https://github.com/SouryapriyaChoudhury)
+- LinkedIn: [Souryapriya Choudhury](https://www.linkedin.com/in/souryapriya-choudhury-940655284/)
 
 ## 🙏 Acknowledgments
 
