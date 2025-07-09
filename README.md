@@ -127,6 +127,22 @@ ScheduloMern/
     ├── routes/         # API routes
     └── middleware/     # Custom middleware
 ```
+## 📸 App Screenshots
+
+### 🔐 Sign In
+![Sign In](client/src/assets/sign-in.png)
+
+### 📝 Sign Up
+![Sign Up](client/src/assets/Sign-up.png)
+
+### 📊 Task Overview
+![Task Overview](client/src/assets/TaskOverview.png)
+
+### ✏️ Edit Task
+![Edit Task](client/src/assets/EditTask.png)
+
+### ⚙️ Account Settings
+![Account Settings](client/src/assets/Account-settings.png)
 
 ## 🤝 Contributing
 
